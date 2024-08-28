@@ -1,1 +1,11 @@
+# Essential libraries
+pandas==2.0.3
+numpy==1.25.2
+
+# Cloud and storage
+boto3==1.28.14
+google-cloud-storage==2.11.0
+
+# Jupyter notebook support
+notebook==7.0.1
 
