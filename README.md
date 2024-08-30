@@ -8,9 +8,9 @@ This repository serves as a foundational template for future assignments in the 
 
 ## Contents
 
-- **.devcontainer/**: Configuration for a consistent development environment.
+- **.devcontainer**: Configuration for a consistent development environment.
 - **Makefile**: Automation of common tasks and commands.
-- **.github/**: GitHub Actions for continuous integration and deployment.
+- **.github**: GitHub Actions for continuous integration and deployment.
 - **requirements.txt**: List of dependencies required for the project.
 
 ## Getting Started
