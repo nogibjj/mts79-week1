@@ -14,18 +14,31 @@ This repository serves as a foundational template for future assignments in the 
 - **requirements.txt**: List of dependencies required for the project.
 
 ## Getting Started
+1. **Clone the repository:**
 
-To get started:
-1. Clone the Repository
-git clone https://github.com/nogibjj/mts79-week1.git
-cd mts79-week1
-2. Create a virtual environment (optional)
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-3. Install dependencies
-pip install -r requirements.txt
-4. run main.py and tes_main.py
-python main.py
-python test_main.py
+    ```bash
+    git clone https://github.com/nogibjj/mts79-week1.git
+    ```
+
+2. **Navigate into the project directory:**
+
+    ```bash
+    cd mts79-week1
+    ```
+
+3. **Install the required dependencies:**
+
+    You can find the list of required packages in the `requirements.txt` file. Run the following command to install them:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the script:**
+
+    ```bash
+    python main.py
+    python test_main.py
+    ```
+
 
 
