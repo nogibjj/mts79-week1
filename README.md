@@ -17,15 +17,15 @@ This repository serves as a foundational template for future assignments in the 
 
 To get started:
 1. Clone the Repository
-```git clone https://github.com/nogibjj/mts79-week1.git
-cd mts79-week1```
+git clone https://github.com/nogibjj/mts79-week1.git
+cd mts79-week1
 2. Create a virtual environment (optional)
-```python -m venv venv
-source venv/bin/activate```  # On Windows use `venv\Scripts\activate`
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. Install dependencies
-```pip install -r requirements.txt```
+pip install -r requirements.txt
 4. run main.py and tes_main.py
-```python main.py
-python test_main.py```
+python main.py
+python test_main.py
 
 
